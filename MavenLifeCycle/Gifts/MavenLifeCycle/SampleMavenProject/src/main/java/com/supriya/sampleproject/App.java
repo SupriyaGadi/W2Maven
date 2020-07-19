@@ -1,4 +1,4 @@
-package com.chandini.sampleproject;
+package com.supriya.sampleproject;
 
 /**
  * Hello world!
